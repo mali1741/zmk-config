@@ -13,4 +13,4 @@
 #
 ---
 board: [ "seeeduino_xiao_ble" ]
-shield: [ "kretstrad_left", "kretstrad_right" ]
+shield: [ "mcorne_left", "mcorne_right" ]
